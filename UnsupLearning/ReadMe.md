@@ -4,9 +4,15 @@
 
 ### Feature extraction
 
+#### Wrappers
+
+#### Filters
+
+#### Embedded
+
 ### Feature reduction
 
-### PCA
+#### PCA
 
 ## Clustering Techniques
 
