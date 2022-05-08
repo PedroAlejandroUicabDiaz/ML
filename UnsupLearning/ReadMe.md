@@ -1,10 +1,12 @@
 # Units
 
-## Feature Extraction and Selection
+## Dimensionality Reduction
 
 ### Feature extraction
 
 ### Feature reduction
+
+### PCA
 
 ## Clustering Techniques
 
